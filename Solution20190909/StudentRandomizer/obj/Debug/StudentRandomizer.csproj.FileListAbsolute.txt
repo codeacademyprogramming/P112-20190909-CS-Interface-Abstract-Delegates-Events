@@ -1,0 +1,10 @@
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\bin\Debug\StudentRandomizer.exe.config
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\bin\Debug\StudentRandomizer.exe
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\bin\Debug\StudentRandomizer.pdb
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\obj\Debug\StudentRandomizer.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\obj\Debug\StudentRandomizer.Form1.resources
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\obj\Debug\StudentRandomizer.Properties.Resources.resources
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\obj\Debug\StudentRandomizer.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\obj\Debug\StudentRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\obj\Debug\StudentRandomizer.exe
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\StudentRandomizer\obj\Debug\StudentRandomizer.pdb

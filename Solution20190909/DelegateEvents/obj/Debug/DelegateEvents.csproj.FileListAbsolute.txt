@@ -1,0 +1,9 @@
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\bin\Debug\DelegateEvents.exe.config
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\bin\Debug\DelegateEvents.exe
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\bin\Debug\DelegateEvents.pdb
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\obj\Debug\DelegateEvents.Form1.resources
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\obj\Debug\DelegateEvents.Properties.Resources.resources
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\obj\Debug\DelegateEvents.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\obj\Debug\DelegateEvents.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\obj\Debug\DelegateEvents.exe
+C:\Users\sattar\Desktop\P112\C#\20190909\Solution20190909\DelegateEvents\obj\Debug\DelegateEvents.pdb
